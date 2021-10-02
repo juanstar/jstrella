@@ -10,9 +10,10 @@ package dto;
  * @author j_sta
  */
 public class materia {
+
     int id;
     int idGrupo;
-    String nombre;
-    String estatus;
-    
+    public String nombre;
+    public String estatus;
+
 }

@@ -13,6 +13,6 @@ public class carrera {
 
     int id;
     int idUniversidad;
-    String nombre;
-    String estatus;
+    public String nombre;
+    public String estatus;
 }

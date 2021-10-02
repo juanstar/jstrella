@@ -13,9 +13,9 @@ public class alumno {
 
     int id;
     int idMateria;
-    String userName;
-    String apellidoPaterno;
-    String apellidoMaterno;
-    String estatus;
+    public String userName;
+    public String apellidoPaterno;
+    public String apellidoMaterno;
+    public String estatus;
 
 }

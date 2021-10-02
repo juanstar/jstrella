@@ -12,6 +12,6 @@ package dto;
 public class grupo {
     int id;
     int idGrado;
-    String nombre;
-    String estatus;
+    public String nombre;
+    public String estatus;
 }
