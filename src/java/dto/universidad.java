@@ -12,7 +12,7 @@ package dto;
 public class universidad {
 
     int id;
-    String nombre;
-    String estatus;
+    public String nombre;
+    public String estatus;
 
 }
